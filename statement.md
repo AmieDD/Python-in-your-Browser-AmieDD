@@ -1,8 +1,9 @@
 # Welcome!
 
 This Python template lets you get started quickly with a simple one-page playground.
-No need to download anything
-amiedd.com code, cosplay and games
+No need to download anything. You can use my demos in your browser.
+More info on my webpage www.amiedd.com 
+code, cosplay and games
 
 ```python runnable
 print('Hello Earth!')
