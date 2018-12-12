@@ -1,9 +1,11 @@
 # Welcome!
 
 This Python template lets you get started quickly with a simple one-page playground.
+No need to download anything
+amiedd.com code, cosplay and games
 
 ```python runnable
-print('Hello World!')
+print('Hello Earth!')
 ```
 
 # Advanced usage
