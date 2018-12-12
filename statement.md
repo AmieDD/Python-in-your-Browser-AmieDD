@@ -6,7 +6,7 @@ More info on my webpage www.amiedd.com
 code, cosplay and games
 
 ```python runnable
-print('Hello Earth!')
+print('Hello Earthlings!')
 ```
 
 # Advanced usage
